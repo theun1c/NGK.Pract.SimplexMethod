@@ -1,0 +1,14 @@
+C:\Users\belov\Desktop\projects\NGK.Pract.SimplexMethod\NGK.Pract.SimplexMethod\obj\Debug\net9.0\NGK.Pract.SimplexMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belov\Desktop\projects\NGK.Pract.SimplexMethod\NGK.Pract.SimplexMethod\obj\Debug\net9.0\NGK.Pract.SimplexMethod.AssemblyInfoInputs.cache
+C:\Users\belov\Desktop\projects\NGK.Pract.SimplexMethod\NGK.Pract.SimplexMethod\obj\Debug\net9.0\NGK.Pract.SimplexMethod.AssemblyInfo.cs
+C:\Users\belov\Desktop\projects\NGK.Pract.SimplexMethod\NGK.Pract.SimplexMethod\obj\Debug\net9.0\NGK.Pract.SimplexMethod.csproj.CoreCompileInputs.cache
+C:\Users\belov\Desktop\projects\NGK.Pract.SimplexMethod\NGK.Pract.SimplexMethod\bin\Debug\net9.0\NGK.Pract.SimplexMethod.exe
+C:\Users\belov\Desktop\projects\NGK.Pract.SimplexMethod\NGK.Pract.SimplexMethod\bin\Debug\net9.0\NGK.Pract.SimplexMethod.deps.json
+C:\Users\belov\Desktop\projects\NGK.Pract.SimplexMethod\NGK.Pract.SimplexMethod\bin\Debug\net9.0\NGK.Pract.SimplexMethod.runtimeconfig.json
+C:\Users\belov\Desktop\projects\NGK.Pract.SimplexMethod\NGK.Pract.SimplexMethod\bin\Debug\net9.0\NGK.Pract.SimplexMethod.dll
+C:\Users\belov\Desktop\projects\NGK.Pract.SimplexMethod\NGK.Pract.SimplexMethod\bin\Debug\net9.0\NGK.Pract.SimplexMethod.pdb
+C:\Users\belov\Desktop\projects\NGK.Pract.SimplexMethod\NGK.Pract.SimplexMethod\obj\Debug\net9.0\NGK.Pract.SimplexMethod.dll
+C:\Users\belov\Desktop\projects\NGK.Pract.SimplexMethod\NGK.Pract.SimplexMethod\obj\Debug\net9.0\refint\NGK.Pract.SimplexMethod.dll
+C:\Users\belov\Desktop\projects\NGK.Pract.SimplexMethod\NGK.Pract.SimplexMethod\obj\Debug\net9.0\NGK.Pract.SimplexMethod.pdb
+C:\Users\belov\Desktop\projects\NGK.Pract.SimplexMethod\NGK.Pract.SimplexMethod\obj\Debug\net9.0\NGK.Pract.SimplexMethod.genruntimeconfig.cache
+C:\Users\belov\Desktop\projects\NGK.Pract.SimplexMethod\NGK.Pract.SimplexMethod\obj\Debug\net9.0\ref\NGK.Pract.SimplexMethod.dll

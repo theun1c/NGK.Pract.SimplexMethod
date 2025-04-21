@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "NGK.Pract.SimplexMethod/1.0.0": {
+        "runtime": {
+          "NGK.Pract.SimplexMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NGK.Pract.SimplexMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
