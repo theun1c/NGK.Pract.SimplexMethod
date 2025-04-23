@@ -12,3 +12,4 @@ C:\Users\belov\Desktop\projects\NGK.Pract.SimplexMethod\NGK.Pract.SimplexMethod\
 C:\Users\belov\Desktop\projects\NGK.Pract.SimplexMethod\NGK.Pract.SimplexMethod\obj\Debug\net9.0\NGK.Pract.SimplexMethod.pdb
 C:\Users\belov\Desktop\projects\NGK.Pract.SimplexMethod\NGK.Pract.SimplexMethod\obj\Debug\net9.0\NGK.Pract.SimplexMethod.genruntimeconfig.cache
 C:\Users\belov\Desktop\projects\NGK.Pract.SimplexMethod\NGK.Pract.SimplexMethod\obj\Debug\net9.0\ref\NGK.Pract.SimplexMethod.dll
+C:\Users\belov\Desktop\projects\NGK.Pract.SimplexMethod\NGK.Pract.SimplexMethod\obj\Debug\net9.0\NGK.Pract.SimplexMethod.sourcelink.json
